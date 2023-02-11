@@ -1,0 +1,3 @@
+[submodule "virtual-desktop-bar"]
+	path = virtual-desktop-bar
+	url = https://github.com/wsdfhjxc/virtual-desktop-bar.git
